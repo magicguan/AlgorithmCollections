@@ -1,4 +1,4 @@
-package or.gig.avltree;
+package org.gig.avltree;
 
 import org.gig.binarytree.BinaryTree;
 import org.gig.binarytree.BinaryTreeNode;
